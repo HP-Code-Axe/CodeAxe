@@ -1,2 +1,0 @@
-# CodeAxe
-Learning project
